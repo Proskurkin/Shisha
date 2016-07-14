@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Shisha project.iml" filepath="$PROJECT_DIR$/Shisha project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shisha-ejb/shisha-ejb.iml" filepath="$PROJECT_DIR$/shisha-ejb/shisha-ejb.iml" />
+    </modules>
+  </component>
+</project>
