@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Shisha project.iml" filepath="$PROJECT_DIR$/Shisha project.iml" />
       <module fileurl="file://$PROJECT_DIR$/shisha-ejb/shisha-ejb.iml" filepath="$PROJECT_DIR$/shisha-ejb/shisha-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shisha-web/shisha-web.iml" filepath="$PROJECT_DIR$/shisha-web/shisha-web.iml" />
     </modules>
   </component>
 </project>

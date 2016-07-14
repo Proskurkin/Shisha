@@ -24,9 +24,17 @@
         <processorPath useClasspath="true" />
         <module name="Shisha project" />
       </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="shisha-web" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Shisha project" target="1.7" />
+      <module name="shisha-web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
